@@ -1,9 +1,16 @@
-# miniadmin
+# MiniAdmin
 
-Adminisztrációs felület a webes programokhoz. 
-Felhasználónév és jelszó a belépéshez, valamint 
-menürendszer és saját modulok támogatása.
+## Adminisztrációs rendszer webes programokhoz
 
-Administration interface for web applications. 
-Username and password to log in, support for menu 
-system and custom modules.
+Fejlesztő: [pphome2](https:/github.com/pphome2)
+
+**Aktuális verzió: -**
+
+**Első megjelenés: 2018.**
+
+
+A program adminsiztrációs felületet kínált webes programok készítéséhez.
+
+A MiniAdmin a MiniSys csomag része lett. Elérhető:
+
+[MiniSys a Github-on](https://github.com/pphome2/minisys)
